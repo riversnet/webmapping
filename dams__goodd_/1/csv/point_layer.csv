@@ -1,0 +1,65 @@
+X,Y,DAM_ID,Latitud,Longitud,Watershed,Sub Basin,Groupe,Region,icon_url
+-72.07955835,43.39565975,"1001311.0","43.39566","-72.079558","Upper Connecticut-Mascoma. New Hampshire, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-72.23789105,43.27066025,"1001314.0","43.27066","-72.237891","Upper Connecticut-Mascoma. New Hampshire, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-72.48789005,42.77066225,"1001340.0","42.770662","-72.48789","Middle Connecticut. Massachusetts, New Hampshire, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.01289195,42.70399585,"1001342.0","42.703996","-72.012892","Miller. Massachusetts, New Hampshire.",Lower Connecticut,Connecticut,New England,./0.png
+-72.43789025,42.61232955,"1001345.0","42.61233","-72.43789","Miller. Massachusetts, New Hampshire.",Lower Connecticut,Connecticut,New England,./0.png
+-73.05455445,42.15399805,"1001357.0","42.153998","-73.054554","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-73.08788765,41.92066565,"1001363.0","41.920666","-73.087888","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.95455485,41.88733245,"1001365.0","41.887332","-72.954555","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.42955695,41.87066585,"1001367.0","41.870666","-72.429557","Lower Connecticut. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.943781,41.818075,"1002979.0","41.818075","-72.943781","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.952272,42.972873,"1002980.0","42.972873","-72.952272","Deerfield. Massachusetts, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.959948,42.683732,"1002981.0","42.683732","-72.959948","Deerfield. Massachusetts, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.550282,42.61149,"1002987.0","42.61149","-72.550282","Middle Connecticut. Massachusetts, New Hampshire, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.303315,43.667216,"1002989.0","43.667216","-72.303315","Upper Connecticut-Mascoma. New Hampshire, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-72.290427,42.073444,"1002990.0","42.073444","-72.290427",Chicopee. Massachusetts.,Lower Connecticut,Connecticut,New England,./0.png
+-73.090809,41.934918,"1012047.0","41.934918","-73.090809","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-73.106529,42.138435,"1012048.0","42.138435","-73.106529","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-73.115557,42.090311,"1012049.0","42.090311","-73.115557","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-73.035099,42.008633,"1012060.0","42.008633","-73.035099","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-73.019551,41.989778,"1012063.0","41.989778","-73.019551","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.931199,42.730114,"1012067.0","42.730114","-72.931199","Deerfield. Massachusetts, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.880953,42.267758,"1012069.0","42.267758","-72.880953","Westfield. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.89338,42.123642,"1012071.0","42.123642","-72.89338","Westfield. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.958898,42.678459,"1012072.0","42.678459","-72.958898","Deerfield. Massachusetts, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.938752,42.129752,"1012073.0","42.129752","-72.938752","Westfield. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.953957,41.910274,"1012074.0","41.910274","-72.953957","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.942387,41.827395,"1012075.0","41.827395","-72.942387","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.915023,42.793311,"1012076.0","42.793311","-72.915023","Deerfield. Massachusetts, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.863147,42.290417,"1012077.0","42.290417","-72.863147","Westfield. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.887983,42.209407,"1012079.0","42.209407","-72.887983","Westfield. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.857395,42.118409,"1012081.0","42.118409","-72.857395","Westfield. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.847554,42.087578,"1012082.0","42.087578","-72.847554","Westfield. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.774102,43.127156,"1012083.0","43.127156","-72.774102",West. Vermont,Upper Connecticut,Connecticut,New England,./0.png
+-72.706764,42.573216,"1012084.0","42.573216","-72.706764","Deerfield. Massachusetts, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.693869,41.914767,"1012087.0","41.914767","-72.693869","Farmington. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.776164,42.215892,"1012093.0","42.215892","-72.776164","Middle Connecticut. Massachusetts, New Hampshire, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.737392,42.147564,"1012098.0","42.147564","-72.737392","Westfield. Connecticut, Massachusetts.",Lower Connecticut,Connecticut,New England,./0.png
+-72.702095,43.052764,"1012100.0","43.052764","-72.702095",West. Vermont,Upper Connecticut,Connecticut,New England,./0.png
+-72.664662,42.47017,"1012102.0","42.47017","-72.664662","Middle Connecticut. Massachusetts, New Hampshire, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.684039,42.44244,"1012103.0","42.44244","-72.684039","Middle Connecticut. Massachusetts, New Hampshire, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.49901,43.375743,"1012105.0","43.375743","-72.49901",Black-Ottauquechee. Vermont.,Upper Connecticut,Connecticut,New England,./0.png
+-72.512668,42.771235,"1012111.0","42.771235","-72.512668","Upper Connecticut-Mascoma. New Hampshire, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-72.417911,42.209308,"1012114.0","42.209308","-72.417911",Chicopee. Massachusetts.,Lower Connecticut,Connecticut,New England,./0.png
+-72.361007,43.604477,"1012115.0","43.604477","-72.361007",Black-Ottauquechee. Vermont.,Upper Connecticut,Connecticut,New England,./0.png
+-72.344078,42.284111,"1012116.0","42.284111","-72.344078",Chicopee. Massachusetts.,Lower Connecticut,Connecticut,New England,./0.png
+-72.446393,43.137724,"1012118.0","43.137724","-72.446393","Upper Connecticut-Mascoma. New Hampshire, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-72.299272,42.297451,"1012119.0","42.297451","-72.299272",Chicopee. Massachusetts.,Lower Connecticut,Connecticut,New England,./0.png
+-72.289078,42.933461,"1012120.0","42.933461","-72.289078","Middle Connecticut. Massachusetts, New Hampshire, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.224448,42.641793,"1012121.0","42.641793","-72.224448","Miller. Massachusetts, New Hampshire.",Lower Connecticut,Connecticut,New England,./0.png
+-72.181713,43.648803,"1012122.0","43.648803","-72.181713","Upper Connecticut-Mascoma. New Hampshire, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-72.130684,43.285261,"1012126.0","43.285261","-72.130684","Upper Connecticut-Mascoma. New Hampshire, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-72.059525,44.259981,"1012128.0","44.259981","-72.059525","Upper Connecticut. Maine, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-72.123242,42.634054,"1012129.0","42.634054","-72.123242","Miller. Massachusetts, New Hampshire.",Lower Connecticut,Connecticut,New England,./0.png
+-72.00406,42.592166,"1012132.0","42.592166","-72.00406","Miller. Massachusetts, New Hampshire.",Lower Connecticut,Connecticut,New England,./0.png
+-72.025217,42.42788,"1012133.0","42.42788","-72.025217",Chicopee. Massachusetts.,Lower Connecticut,Connecticut,New England,./0.png
+-72.000143,44.325614,"1012135.0","44.325614","-72.000143","Upper Connecticut. Maine, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-71.929845,44.004565,"1012141.0","44.004565","-71.929845","Upper Connecticut-Mascoma. New Hampshire, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-71.932107,42.483562,"1012142.0","42.483562","-71.932107",Chicopee. Massachusetts.,Lower Connecticut,Connecticut,New England,./0.png
+-71.875002,44.335047,"1012174.0","44.335047","-71.875002","Upper Connecticut. Maine, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-71.382244,45.045372,"1012197.0","45.045372","-71.382244","Upper Connecticut. Maine, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-71.181413,45.141638,"1012207.0","45.141638","-71.181413","Upper Connecticut. Maine, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-71.248994,45.095365,"1012209.0","45.095365","-71.248994","Upper Connecticut. Maine, Vermont.",Upper Connecticut,Connecticut,New England,./0.png
+-72.977678,42.68551,"1033638.0","42.68551","-72.977678","Deerfield. Massachusetts, Vermont.",Lower Connecticut,Connecticut,New England,./0.png
+-72.408256,42.177021,"1033640.0","42.177021","-72.408256",Chicopee. Massachusetts.,Lower Connecticut,Connecticut,New England,./0.png
